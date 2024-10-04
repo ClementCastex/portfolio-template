@@ -2,9 +2,9 @@ const theme = {
   colors: {
     primary: "#5B348B", // Violet foncé
     secondary: "#F7F3F7", // Blanc
-    backgroundDark: "#23272A", // Gris très foncé pour le fond
-    backgroundLight: "#2C2F33", // Gris plus clair pour les cartes ou éléments de fond
-    highlight: "#CCAA1D", // Jaune moutarde
+    backgroundDark: "#23272A", // Gris très foncé
+    backgroundLight: "#2C2F33", // Gris plus clair
+    highlight: "#CCAA1D", // Jaune
   },
   fontSize: {
     title: "2.5rem", // Taille du titre
@@ -16,8 +16,8 @@ const theme = {
     text: "'Quicksand', sans-serif", // Police pour le texte
   },
   borders: {
-    radiusCard: "25px", // Arrondi pour les cartes
-    pictureRadius: "50%", // Pour les images rondes (comme les avatars)
+    radiusCard: "25px",
+    pictureRadius: "50%",
   },
 };
 
